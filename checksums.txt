@@ -1,6 +1,6 @@
 {
   "checksum_by_version": {
-    "5.6 [1.8.8]": "somechecksum",
+    "5.6 [1.8.8]": "9dd7bc4da002d485c90fbf35cd84a0d4",
     "5.6 [other]": "somechecksum"
   }
 }
